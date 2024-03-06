@@ -90,7 +90,7 @@ public class Ui {
         showDividerLine();
     }
 
-    public static void showDividerLine() {
+    private static void showDividerLine() {
         System.out.println(LINE);
     }
 }
